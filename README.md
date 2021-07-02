@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ejaz.
 - 👀 I’m interested in Web Development and Computer Security.
-- 🌱 I’m currently learning Advance Concepts of JS
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me: just email me at contact.ejaz@yandex.com
 
